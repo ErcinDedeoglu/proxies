@@ -6,9 +6,9 @@
 
 🙌 All the proxies are checked before being posted
 
-📆 Last Updated: `2024-12-24 18:41:14 UTC`
+📆 Last Updated: `2024-12-24 18:50:33 UTC`
 
-🔥 Total Proxies: `43658`
+🔥 Total Proxies: `43661`
 
 ## DOWNLOAD
 
