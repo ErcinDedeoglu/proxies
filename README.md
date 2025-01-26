@@ -6,7 +6,7 @@
 
 🙌 All the proxies are checked before being posted
 
-📆 Last Updated: `2025-01-26 03:43:44 UTC`
+📆 Last Updated: `2025-01-26 03:49:37 UTC`
 
 🔥 Total Proxies: `40981`
 
